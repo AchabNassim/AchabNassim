@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Nassim 🛸<br> Software Engineering student at 1337 UM6P - 42</h1>
+<h1 align="left">Hello! I'm Nassim 🛸<br> <h3> Software Engineering student at 1337 UM6P - 42 </h3> </h1>
 
 ### 📈 GitHub Stats
 
