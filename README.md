@@ -1,10 +1,10 @@
-<h2 align="center">🎓 Software Engineering Student at 1337 UM6P <br>💻  Designing and developing modern web ecosystems.</h2>
+<h1 align="left">🛸 Hello I'm nassim <br>🎓 Software Engineering Student at 1337 UM6P</h1>
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://streak-stats.demolab.com?user=AchabNassim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AchabNassim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
