@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software Engineering Student at 1337 UM6P - 42 Network  <br>💻 Web dev enthusiast, living and breathing tech 👽</h2>
+<h2 align="center">🎓 Software Engineering Student at 1337 UM6P - 42 Network  <br>💻 Web dev enthusiast, living and breathing tech 👽</h2><br>
 
 ###
 
