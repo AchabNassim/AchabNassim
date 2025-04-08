@@ -1,6 +1,10 @@
-<h1 align="left">🛸 Hello I'm nassim <br>🎓 Software Engineering Student at 1337 UM6P</h1>
+<h1 align="left">Hello! I'm Nassim 🛸</h1>
 
-###
+### 📈 GitHub Stats
+
+<h3 align="left">Software engineering student at 1337 UM6P - 42 network.<br>Passionate about building robust and scalable web applications.</h3>
+
+### 👾 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
