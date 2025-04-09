@@ -2,9 +2,10 @@
 
 ### 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AchabNassim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AchabNassim&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8&title=commits,repositories,prs,experience" height="150" alt="trophy graph" />
 </div>
 
 ### 👾 Contribution 
