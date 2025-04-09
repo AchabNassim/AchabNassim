@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AchabNassim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=AchabNassim&theme=dracula&rank=S+,A+,B+&column=-1&row=2&margin-w=8&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AchabNassim&theme=dracula&rank=S,AAA,AA,A,B&column=-1&row=2&margin-w=8&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ### 👾 Contribution 
